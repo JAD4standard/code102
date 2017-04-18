@@ -5,4 +5,25 @@ git
   ls list
   status - anything to push
 git add - staging of commits
-git commit - pushes it up to git
+git commit - commits local copy
+git push origin master - pushes up to origin/master
+
+side bar toggle Ctrl + Backslash
+Ctrl Shift T
+Single Quotes in JS Double in HTMl
+
+Typing.io
+Punctuation
+/ forward slash
+\ backslash
+. period dot
+: colon
+; semi colon
+parens
+brackets
+angle brackets
+curly brackets
+| pipe
+% percent or mod
+`
+~ tilda
