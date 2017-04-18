@@ -5,6 +5,7 @@ git
   ls list
   status - anything to push
 git add - staging of commits
+git add -p flag for patch, stage this hunk  y
 git commit - commits local copy
 git push origin master - pushes up to origin/master
 
@@ -27,3 +28,5 @@ curly brackets
 % percent or mod
 `
 ~ tilda
+
+Variables
