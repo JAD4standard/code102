@@ -31,3 +31,6 @@ curly brackets
 ~ tilda
 
 Variables
+To check if two things equal each other, we can use === (three equals in a row).
+To check if two things do not equal each other, we can write !== (exclamation with two equals in a row).
+switch = case
