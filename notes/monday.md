@@ -7,6 +7,7 @@ git
 git add - staging of commits
 git add -p flag for patch, stage this hunk  y
 git commit - commits local copy
+got commit - "notes here"
 git push origin master - pushes up to origin/master
 
 side bar toggle Ctrl + Backslash
