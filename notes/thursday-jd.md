@@ -1,3 +1,4 @@
+EDITS for pull practice Friday
 true vs false
 watch for in if statements
 truthy        falsey
